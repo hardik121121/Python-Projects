@@ -1,6 +1,3 @@
-Here is a `README.md` file with emojis and text for your GitHub repository. You can copy and paste this into your `README.md` file to give it a professional and engaging touch.
-
-```markdown
 # 🔫 Gun Detection using OpenCV and Haar Cascade
 
 This project is a **Gun Detection** system that uses OpenCV and a pre-trained Haar Cascade Classifier to detect guns in real-time from a webcam feed. When a gun is detected, it will draw bounding boxes around the detected objects and print a message confirming the detection.
