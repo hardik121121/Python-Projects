@@ -48,7 +48,7 @@ This project is a **Gun Detection** system that uses OpenCV and a pre-trained Ha
 
 
 ### Gun Detection Result:
-![Gun Detected](https://github.com/your-username/your-repo-name/blob/main/assets/Model_check.png?raw=true)
+![Gun Detected](https://github.com/hardik121121/Weapon_Detection_Using_Open_Cv/blob/main/assets/Model_check.png?raw=true)
 
 
 
